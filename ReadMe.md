@@ -1,5 +1,5 @@
-# 💫 Sobre Mim:
-<br>💻 Estudando programação<br>⌨ Estudando javascript<br>😀 Foco em Back-end<br>🎮 Tenho um servidor de minecraft
+# 💫 Sobre Mim:<br>
+💻 Estudando programação<br>⌨ Estudando javascript<br>😀 Foco em Back-end<br>🎮 Tenho um servidor de minecraft
 
 
 ## 🌐 Socials:
