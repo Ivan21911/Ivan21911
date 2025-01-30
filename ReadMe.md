@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:<br>
-💻 Estudando Programação<br>☕ Estudando Java<br>😀 Foco em Back-end<br>👨‍🎓  Iniciante em Programação<br>🎒  Cursando o Ensino Médio
+💻 Estudando Programação<br>☕ Estudando Java<br>😀 Foco em Back-end<br>👨‍🎓 Iniciante em Programação<br>🎒  Cursando o Ensino Médio
 
 
 ## 🌐 Socials:
