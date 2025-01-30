@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/k5bAzWvdjj) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@anexxo3059) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]([https://discord.gg/https://discord.gg/k5bAzWvdjj](https://discord.gg/V799s5Eubk)) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)]([https://youtube.com/@https://youtube.com/@anexxo3059](https://www.youtube.com/@Ivanlog2)) 
 
 # 💻 Learning:
 ![HTML5](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=white)
